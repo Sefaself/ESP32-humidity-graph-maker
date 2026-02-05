@@ -13,3 +13,7 @@ This repository contains:
 
 ## 📸 Preview
 <img width="2104" height="1019" alt="preview" src="https://github.com/user-attachments/assets/25f4f629-4bb2-4d3e-a872-b1725e0633d8" />
+
+---
+Made by 3 guys for a school project.
+-Velen, Rosato, Sefaself
