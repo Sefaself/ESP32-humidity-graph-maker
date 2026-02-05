@@ -20,4 +20,4 @@ Made by 3 guys for a school project.
 
 
 ---
-<img width="1400" height="1352" alt="j2hkcly5xc781" src="https://github.com/user-attachments/assets/fa041c84-89be-40dc-b076-7e0db1e9ca1c" />
+<img width="350" alt="j2hkcly5xc781" src="https://github.com/user-attachments/assets/fa041c84-89be-40dc-b076-7e0db1e9ca1c" />
