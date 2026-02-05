@@ -12,5 +12,4 @@ This repository contains:
 ---
 
 ## 📸 Preview
-
-![ESP32 Real-Time Monitor](preview.png)
+<img width="2104" height="1019" alt="preview" src="https://github.com/user-attachments/assets/25f4f629-4bb2-4d3e-a872-b1725e0633d8" />
